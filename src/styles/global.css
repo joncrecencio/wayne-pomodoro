@@ -1,6 +1,8 @@
 :root{
     --white: #fff;
     --background:#f2f3f5;
+    /* --background:#141414; */
+
     --gray-line: #dcdde0;
     --text: rgb(102, 102, 102);
     --title: #2e384d;

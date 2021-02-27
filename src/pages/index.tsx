@@ -23,7 +23,7 @@ export default function Home(props: HomeProps) {
     challengesCompleted={props.challengesCompleted}>
       <div className={styles.container}>
         <Head>
-          <title>Início | Move.it</title>
+          <title>Início | WayneTimer</title>
         </Head>
         <ExperienceBar />
 
